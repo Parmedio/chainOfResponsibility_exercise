@@ -1,6 +1,5 @@
-# chainOfResponsibility_exercise
-Classroom Exercise
-student: Marco Da Pieve
+# Chain Of Responsibility - Classroom Exercise
+## student: Marco Da Pieve
 
 var myInput1 = "1, 2";  
 var myInput1 = "1, ";  
