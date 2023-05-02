@@ -2,8 +2,8 @@
 Classroom Exercise
 student: Marco Da Pieve
 
-\nvar myInput1 = "1, 2";
-\nvar myInput1 = "1, ";
+\r var myInput1 = "1, 2";
+\n var myInput1 = "1, ";
 var myInput1 = "1, a";
 var myInput1 = "-1, b";
 var myInput1 = "-1, 5";
