@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\bin\Debug\net6.0\ClassroomExercise.deps.json
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\bin\Debug\net6.0\ClassroomExercise.dll
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\bin\Debug\net6.0\ClassroomExercise.pdb
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.AssemblyInfo.cs
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.dll
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\refint\ClassroomExercise.dll
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ClassroomExercise.pdb
+C:\Users\student\source\repos\DesignPattern\chainOfResponsibility_exercise\ClassroomExercise\ClassroomExercise\obj\Debug\net6.0\ref\ClassroomExercise.dll
