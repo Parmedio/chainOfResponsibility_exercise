@@ -9,8 +9,8 @@
             var mustBePositiveNumbers = new MustBePositiveNumbers();
             var adder = new Adder();
 
-            mustBeTwoNumbers.SetSuccessor(mustBePositiveNumbers);
             mustBePositiveNumbers.SetSuccessor(adder);
+            mustBeTwoNumbers.SetSuccessor(mustBePositiveNumbers);
             _chain = mustBeTwoNumbers;
         }
         public Checker GetChain => _chain;
