@@ -1,11 +1,10 @@
 ﻿namespace ClassroomExercise
 {
-    internal class Adder : Checker
+    public static class Adder
     {
-        public override (bool, string) ProcessRequest(UserInput userInput)
+        public static (bool, string) doSum(UserInput userInput)
         {
             return (true, $"The sum of the two number is: {int.Parse(userInput.GetFirstPart) + int.Parse(userInput.GetSecondPart)}");
         }
-        //classe a parte
     }
 }

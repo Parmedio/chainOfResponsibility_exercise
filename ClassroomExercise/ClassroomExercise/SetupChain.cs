@@ -7,9 +7,7 @@
         {
             var mustBeTwoNumbers = new MustBeTwoNumbers();
             var mustBePositiveNumbers = new MustBePositiveNumbers();
-            var adder = new Adder();
 
-            mustBePositiveNumbers.SetSuccessor(adder);
             mustBeTwoNumbers.SetSuccessor(mustBePositiveNumbers);
             _chain = mustBeTwoNumbers;
         }

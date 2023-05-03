@@ -8,7 +8,7 @@
             { 
                 if (_successor != null)
                     return _successor.ProcessRequest(userInput);
-                return (true, string.Empty);
+                return (true, "Input string contain two positive numbers");
             }
             return (false, "Input string DOES NOT have two positive numbers");
         }
